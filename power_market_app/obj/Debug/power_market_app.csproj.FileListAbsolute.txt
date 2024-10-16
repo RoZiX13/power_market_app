@@ -2,7 +2,6 @@ D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\power_market_app.exe
 D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\power_market_app.exe
 D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\power_market_app.pdb
 D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_market_app.csproj.AssemblyReference.cache
-D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_market_app.PowerMarket.resources
 D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_market_app.Properties.Resources.resources
 D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_market_app.csproj.GenerateResource.cache
 D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_market_app.csproj.CoreCompileInputs.cache
@@ -23,3 +22,16 @@ D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Memory.xml
 D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Numerics.Vectors.xml
 D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_ma.B12B8696.Up2Date
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Text.Encodings.Web.dll
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Text.Json.dll
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.ValueTuple.dll
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Text.Encodings.Web.xml
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Text.Json.xml
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.ValueTuple.xml
+D:\IdeaProjects\power_market_app\power_market_app\obj\Debug\power_market_app.Auth.resources
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\IdeaProjects\power_market_app\power_market_app\bin\Debug\System.Security.Cryptography.ProtectedData.xml

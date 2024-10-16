@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\IdeaProjects\\power_market_app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|d:\\ideaprojects\\power_market_app\\power_market_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|solutionrelative:power_market_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|d:\\ideaprojects\\power_market_app\\power_market_app\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|solutionrelative:power_market_app\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|d:\\ideaprojects\\power_market_app\\power_market_app\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|solutionrelative:power_market_app\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|d:\\ideaprojects\\power_market_app\\power_market_app\\powermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|solutionrelative:power_market_app\\powermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|D:\\IdeaProjects\\power_market_app\\power_market_app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|solutionrelative:power_market_app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|D:\\IdeaProjects\\power_market_app\\power_market_app\\powermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|d:\\ideaprojects\\power_market_app\\power_market_app\\powermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{31B678B4-A253-47C1-8AA1-3729AC12E1C2}|power_market_app\\power_market_app.csproj|solutionrelative:power_market_app\\powermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,43 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\App.config",
-              "RelativeDocumentMoniker": "power_market_app\\App.config",
-              "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\App.config",
-              "RelativeToolTip": "power_market_app\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-12T19:35:30.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PowerMarket.cs",
-              "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\PowerMarket.cs",
-              "RelativeDocumentMoniker": "power_market_app\\PowerMarket.cs",
-              "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\PowerMarket.cs",
-              "RelativeToolTip": "power_market_app\\PowerMarket.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAswGIAAAAwAAAAAAAAAA==",
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\Auth.cs",
+              "RelativeDocumentMoniker": "power_market_app\\Auth.cs",
+              "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\Auth.cs",
+              "RelativeToolTip": "power_market_app\\Auth.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAUwIgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T19:26:42.463Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\Register.cs",
+              "RelativeDocumentMoniker": "power_market_app\\Register.cs",
+              "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\Register.cs",
+              "RelativeToolTip": "power_market_app\\Register.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:50:01.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\Program.cs",
+              "RelativeDocumentMoniker": "power_market_app\\Program.cs",
+              "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\Program.cs",
+              "RelativeToolTip": "power_market_app\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:18:17.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PowerMarket.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\PowerMarket.cs",
               "RelativeDocumentMoniker": "power_market_app\\PowerMarket.cs",
               "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\PowerMarket.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "power_market_app\\PowerMarket.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T19:25:06.25Z"
+              "WhenOpened": "2024-10-16T07:13:04.807Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerMarket.cs",
+              "DocumentMoniker": "D:\\IdeaProjects\\power_market_app\\power_market_app\\PowerMarket.cs",
+              "RelativeDocumentMoniker": "power_market_app\\PowerMarket.cs",
+              "ToolTip": "D:\\IdeaProjects\\power_market_app\\power_market_app\\PowerMarket.cs",
+              "RelativeToolTip": "power_market_app\\PowerMarket.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:19:32.704Z",
+              "EditorCaption": ""
             }
           ]
         }
